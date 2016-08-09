@@ -1,2 +1,1 @@
-# Ionic2
-For mobile ,Tab development v
+# Ionic 2 Tabs Starter
